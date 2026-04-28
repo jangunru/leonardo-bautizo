@@ -5,7 +5,6 @@ import StorySection from './components/StorySection';
 import PhotoCollage from "./components/PhotoCollage";
 import DressCode from "./components/DressCode";
 import RSVPForm from "./components/RSVPForm";
-import Registry from "./components/Registry";
 import MessageSection from "./components/MessageSection"
 
 
