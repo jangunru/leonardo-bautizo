@@ -9,19 +9,9 @@ const DressCode = () => {
             <div className="dress-code-sections">
                 {/* First Section */}
                 <div className="dress-code-section">
-                    <p className='font-edu-1'><strong>Código de vestimenta</strong></p>
-                    <img src="/images/vestimenta.png" alt="Dress Code Icon" className="vestimenta-icon" />
-                    <p><strong>Formal</strong></p>
-                    <p>Te recomendamos llevar calzado cómodo para que le saques brillo a la pista!</p>
-                </div>
-                <br></br>
-                {/* Second Section */}
-                <div className="dress-code-section">
-                    <p className='font-edu-1'><strong>Solo adultos</strong></p>
-                    <p>
-                        Queremos que este momento tan especial lo disfrutes tanto como nosotros, por eso hemos decidido
-                        que el evento sea sólo para adultos. No niños por favor.
-                    </p>
+                    <p className='font-edu-1'><strong>Tematica Vaquera!</strong></p>
+                    <img src="/images/vestimenta1.png" alt="Dress Code Icon" className="vestimenta-icon" />
+                 
                 </div>
 
 

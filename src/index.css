@@ -106,7 +106,7 @@ a .label {
 @media (max-width: 768px) {
     body {
         font-size: 0.9rem;
-        background-image: url('../public/images/fondo1.png');
+        background-image: url('../public/images/fondo1.jpg');
     }
 
     h1,

@@ -22,7 +22,7 @@ const CoverPhoto = () => {
 
     // Calculate time left until the target date
     function calculateTimeLeft() {
-        const targetDate = new Date('2025-03-01T00:00:00');
+        const targetDate = new Date('2026-07-25T00:00:00');
         const difference = +targetDate - +new Date();
         let timeLeft = {};
 
@@ -41,13 +41,13 @@ const CoverPhoto = () => {
     }
 
     const coverPhotoStyle = {
-        backgroundImage: `url(${isMobile ? '/images/jp1.jpg' : '/images/jp2.jpg'})`,
+        backgroundImage: `url(${isMobile ? '/images/cover.png' : '/images/cover.png'})`,
     };
 
     return (
         <div className="cover-photo" style={coverPhotoStyle}>
             <div className="overlay">
-                <p className="names">Yadeli & Angel</p>
+                <p className="names">Leonardo</p>
                 <div className="countdown">
                     <div className="countdown-timer">
                         <div className="countdown-values">

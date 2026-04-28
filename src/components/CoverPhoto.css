@@ -64,7 +64,7 @@
 .countdown-values span {
     padding: 1px 13px;
     /* Adjust padding for better spacing */
-    background-color: #c6e6c3;
+    background-color: #e1b27b;
     color: #0c0b0b;
     border-radius: 5px;
     font-family: cursive;
@@ -142,7 +142,7 @@
     .countdown-values span {
         padding: 1px 13px;
         /* Adjust padding for better spacing */
-        background-color: #c6e6c3;
+        background-color: #e1b27b;
         color: #0c0b0b;
         border-radius: 5px;
         font-family: cursive;

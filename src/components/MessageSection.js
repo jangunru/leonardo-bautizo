@@ -3,7 +3,14 @@ import './MessageSection.css'
 const MessageSection = () => {
     return (
         <div className="message-section">
-            <p>Hay días en la vida que son especiales por sí solos. Compartirlos con las personas que queremos lo convierte en inolvidables, así que:</p>
+            <p className="highlight">Padres:</p>
+            <p>Concepcion Jiménez Juárez</p>
+            <p>⁠Gerardo Hernández Mejía </p>
+            
+            <p className="highlight">Padrinos:</p>
+            <p>Jenny Noemí Mejía Fragoso </p>
+            <p>Javier Villegas Ibarra</p>
+            <br></br>
             <p className="highlight">¡No faltes!</p>
         </div>
     );

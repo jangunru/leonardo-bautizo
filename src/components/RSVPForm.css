@@ -9,9 +9,9 @@
 
 .rsvp-container {
 
-    background-color: #c6e6c3;
+    background-color: #e1b27b;
     /* Color claro similar al de un post-it */
-    border: 1px solid #c6e6c3;
+    border: 1px solid #e1b27b;
     /* Borde sutil */
     border-radius: 8px;
     /* Bordes redondeados */
@@ -64,7 +64,7 @@
 }
 
 button[type="submit"] {
-    background-color: #c6e6c3;
+    background-color: #e1b27b;
     color: black;
     padding: 0.75rem 1.5rem;
     border: none;
@@ -75,7 +75,7 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-    background-color: #c6e6c3;
+    background-color: #e1b27b;
 }
 
 .form-style {
@@ -100,14 +100,14 @@ button[type="submit"]:hover {
     margin-top: 10px;
     padding: 10px 20px;
     border: none;
-    background-color: #c6e6c3;
+    background-color: #e1b27b;
     color: white;
     border-radius: 5px;
     cursor: pointer;
 }
 
 .popup button:hover {
-    background-color: #c6e6c3;
+    background-color: #e1b27b;
 }
 
 .confirmation-options {
@@ -157,7 +157,7 @@ button[type="submit"]:hover {
 
 /* Modal Button Styles */
 .confirm-button {
-    background-color: #c6e6c3;
+    background-color: #e1b27b;
     color: black;
     border: none;
     padding: 10px 20px;
