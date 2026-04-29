@@ -8,7 +8,9 @@ const StorySection = () => {
         <div className="story-section">
             <p className="font-edu-1"><strong>¡¡Mi bautizo!!</strong></p>
             <p className="font-edu-1"><strong>Leonardo HJ</strong></p>
+            <br></br>
             <p className="font-edu">Como una pequeña gota de agua que se une al océano de tu amor, hoy comienzo mi vida en Cristo Señor, toma mi mano y enséñame a caminar siempre hacia ti, rodeado del cariño de quienes hoy celebran mi encuentro contigo.</p>
+            <br></br>
             <p className="font-edu">Acompáñanos en este día tan especial ,en que recibo mi sacramento con la bendición de Dios.</p>
             <div className="venue-info">
                 <p> <strong>25 de Julio de 2026</strong> </p>
