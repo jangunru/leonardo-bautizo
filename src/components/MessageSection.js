@@ -11,6 +11,7 @@ const MessageSection = () => {
             <p>Jenny Noemí Mejía Fragoso </p>
             <p>Javier Villegas Ibarra</p>
             <br></br>
+            <p className="highlight">Gracias por acompañarme en este momento de alegría</p>
             <p className="highlight">¡No faltes!</p>
         </div>
     );
