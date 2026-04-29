@@ -103,19 +103,19 @@
         margin: 0;
         /* Remove default margins */
         text-shadow:
-            1px 1px 0 black,
+            2px 2px 0 black,
             /* Sombra abajo-derecha */
-            -1px -1px 0 black,
+            -2px -2px 0 black,
             /* Sombra arriba-izquierda */
-            1px -1px 0 black,
+            2px -2px 0 black,
             /* Sombra arriba-derecha */
-            -1px 1px 0 black;
+            -2px 2px 0 black;
         /* Sombra abajo-izquierda */
     }
 
     .countdown {
         position: absolute;
-        bottom: -360px;
+        bottom: -160px;
         /* Space from the bottom of the cover photo */
         left: 50%;
         /* Center horizontally */
